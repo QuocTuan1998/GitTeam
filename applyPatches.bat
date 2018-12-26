@@ -19,6 +19,7 @@ call apply_patches_with_revert.bat
 popd
 
 :quit
+
 alo
 
 12345
